@@ -33,17 +33,5 @@ if (str[r] == '\0')
 str[r++] = '\n';
 }
 }
-r
-e
-t
-u
-r
-n
-(
-s
-t
-r
-)
-;
+return(str);
 }
-
